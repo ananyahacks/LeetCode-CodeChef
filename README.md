@@ -10,11 +10,11 @@ Welcome to my repository for competitive programming problems! This collection f
 
 This repository serves as a personal archive and showcase of my problem-solving journey in competitive programming. It demonstrates my understanding and application of Data Structures and Algorithms (DSA) across a range of problem types.
 
-* **Platforms Covered:** LeetCode, CodeChef, (add any others if you use them)
+* **Platforms Covered:** 
     * <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode" />
     * <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-    <!-- Add badges for other platforms like HackerRank, HackerEarth if you use them -->
-* **Language Used:** JAVA
+
+* *Language Used:* <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 * **Focus Areas:** Efficient algorithms, optimal data structure utilization, time and space complexity analysis.
 
 ---
